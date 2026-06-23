@@ -1,0 +1,22 @@
+# 1. Bỏ qua các file môi trường và cache của Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# 2. Bỏ qua các file rác sinh ra từ Jupyter Notebook / Colab
+.ipynb_checkpoints/
+
+# 3. ⚠️ QUAN TRỌNG: Chặn tuyệt đối các file dữ liệu lớn đẩy lên Git
+datasets/*.csv
+datasets/*.txt
+clean_data/*.csv
+
+# 4. Chặn đẩy các file lưu "bộ não" AI (có thể nặng hàng trăm MB)
+models/*.h5
+models/*.pkl
+
+# 5. Bỏ qua file rác hệ thống máy tính
+.DS_Store
+Thumbs.db
