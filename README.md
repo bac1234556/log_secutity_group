@@ -1,5 +1,5 @@
 
-# 🛡️ Hệ Thống Phát Hiện Xâm Nhập Mạng IoT Bằng AI (IoT-NIDS)
+# 🛡️ Hệ Thống Phát Hiện Xâm Nhập Mạng IoT Bằng AI
 
 > **Dự án:** Ứng dụng Trí tuệ nhân tạo (Machine Learning & Deep Learning) để phân tích lưu lượng mạng và phát hiện các cuộc tấn công nhắm vào thiết bị IoT.
 
