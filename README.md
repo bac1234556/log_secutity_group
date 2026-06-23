@@ -29,7 +29,7 @@ Dự án được triển khai theo luồng Pipeline 4 bước chuẩn hóa:
 Cấu trúc repository được thiết kế để dễ dàng mở rộng và bảo trì:
 
 ```text
-BTL_AI_NETWORK/
+/
 │
 ├── datasets/                   # Dữ liệu: CICIoT2023
 ├── clean_data/                 # Chứa dữ liệu đã qua tiền xử lý (Train/Test)
