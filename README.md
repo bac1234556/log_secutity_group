@@ -1,8 +1,4 @@
-Chào bạn, đoạn văn bản bạn vừa gửi bị lộn xộn về thứ tự (mục 6 nhảy lên trước mục 4, 5) và bị mất định dạng Markdown ở phần công nghệ và lộ trình.
 
-Tôi đã sắp xếp lại bố cục cho logic (đúng thứ tự 1 đến 6), khôi phục các định dạng gạch đầu dòng, thêm checkbox `[x]` cho những việc nhóm đã làm và đóng gói lại trong một khối code. Bạn chỉ cần bấm nút "Copy" và dán đè lên toàn bộ file `README.md` trên GitHub là xong.
-
-```markdown
 # 🛡️ Hệ Thống Phát Hiện Xâm Nhập Mạng IoT Bằng AI (IoT-NIDS)
 
 > **Dự án:** Ứng dụng Trí tuệ nhân tạo (Machine Learning & Deep Learning) để phân tích lưu lượng mạng và phát hiện các cuộc tấn công nhắm vào thiết bị IoT.
